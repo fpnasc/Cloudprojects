@@ -20,6 +20,16 @@ Pré-Reqs para a atividade
   - O Exemplo abaixo demonstra a Somatoria dos Pipelines executados para meu Recurso adf-inout-student.
    ![image](https://github.com/user-attachments/assets/c4f5eb19-e33b-4c87-b42d-ad494df9f115)
 
+- Criado um Alerta para Custos
+  - Criado a ação
+    ![image](https://github.com/user-attachments/assets/8fd693e5-830e-48e3-8086-bbcb8644a4cc)
+
+  - Criado a notificação
+    ![image](https://github.com/user-attachments/assets/11ad1359-e2f3-447f-9cfd-bb6663148227)
+
+
+
+
 
 
 
